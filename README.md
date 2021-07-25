@@ -15,8 +15,6 @@
 
 - 👯 I’m looking to collaborate on **Open source And FiveM Projects**
 
-- :a
-
 - 📫 How to reach me **258NoDaysOff@gmail.com**
 
 - 😃 FiveM Scripting and Asset Developer
