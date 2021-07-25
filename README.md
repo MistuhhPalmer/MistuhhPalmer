@@ -7,22 +7,22 @@
 
 ---
 
-🚧About Me Is Under Construction🚧
+🚧**About Me Is Under Construction**🚧
                                                                              
 - 🔭 I’m currently working on Nothing (ATM)
 
-- 🌱 I’m currently learning Everything 🤣
+- 🌱 I’m currently learning **Everything** 🤣
 
 - 👯 I’m looking to collaborate on **Open source And FiveM Projects**
 
 - 📫 How to reach me **258NoDaysOff@gmail.com**
 
-- 😃 FiveM Scripting and Asset Developer
+- 😃 **FiveM Scripting and Asset Developer**
 
 - ⚡ Fun fact: I am still confused what i want to do. XD 
 ---
 
-🧰 Toolbox
+🧰 **Toolbox**
 
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon logo" width="50" height="50" /> </a>
