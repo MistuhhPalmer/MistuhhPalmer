@@ -11,7 +11,7 @@
                                                                              
 - 🔭 I’m currently working on Nothing (ATM)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Everything 🤣
 
 - 👯 I’m looking to collaborate on **Open source And FiveM Projects**
 
