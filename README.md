@@ -1,14 +1,23 @@
+<p align="middle">
+<img src="https://raw.githubusercontent.com/OsmiumOP/OsmiumOP/main/workbench.svg" width="700px">
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am MistuhhPalmer <img src="https://raw.githubusercontent.com/OsmiumOP/OsmiumOP/main/dev_cat.gif" width="30px">
+
+
 
 ---
 
 🚧About Me Is Under Construction🚧
-                                                                             <img src="https://raw.githubusercontent.com/OsmiumOP/OsmiumOP/main/workbench.svg" width="450px">
+                                                                             
 - 🔭 I’m currently working on Nothing (ATM)
 
 - 🌱 I’m currently learning ...
 
-- 👯 I’m looking to collaborate on Open source And FiveM Projects
+- 👯 I’m looking to collaborate on **Open source And FiveM Projects**
+
+- :a
+
+- 📫 How to reach me **258NoDaysOff@gmail.com**
 
 - 😃 FiveM Scripting and Asset Developer
 
@@ -17,7 +26,10 @@
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="Lua logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode logo" width="50" height="50" />
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon logo" width="50" height="50" /> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="Lua logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode logo" width="50" height="50" />
 
 ---
 
