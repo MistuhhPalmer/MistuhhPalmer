@@ -28,8 +28,8 @@
 
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon logo" width="50" height="50" /> </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="Lua logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode logo" width="50" height="50" />
+<a href="https://www.lua.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="Lua logo" width="50" height="50" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode logo" width="50" height="50" /> </a>
 
 ---
 
